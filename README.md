@@ -42,11 +42,11 @@ A feature section with top places to visit.
 A footer with contact information.
 Screenshot
 
-(Replace this placeholder with an actual screenshot of your project)
+![About Section](img/image (1).jpg.)
+   
 
-Future Enhancements
-Add a gallery section with photos of Krakow.
-Include a blog or article page with travel tips.
-Integrate an interactive map for easier navigation of Krakow’s attractions.
-License
+
+## License
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+deploy link https://nikitaa13.github.io/firstmilestone/
+creator Katarzyna Abassir

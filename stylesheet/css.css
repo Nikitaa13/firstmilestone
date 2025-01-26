@@ -1,0 +1,54 @@
+/* styles.css */
+
+/* Hero Section */
+.hero {
+    background: url('krakow.jpg') center/cover no-repeat;
+    height: 50vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+iframe{
+    border-radius: 20px;
+}
+.navbar-nav .nav-link {
+    font-size: 1.2rem;
+}
+.text-center h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(81, 109, 168);
+}
+.text-center p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(228, 112, 112);
+}
+footer {
+    height: 120px;
+    
+}
+.social-icons a {
+    margin: 0 10px;
+    color: #000;
+    font-size: 1.5rem;
+}
+.social-icons a:hover {
+    color: #007bff;
+}
+.img-about img{
+    height:40% ;
+    width: 100%;
+}
+.img-about p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+article{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.hero{
+    height: 200%;
+    padding: 40px;
+}

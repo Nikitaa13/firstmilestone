@@ -44,8 +44,8 @@ Screenshot
 
 ![image](https://github.com/Nikitaa13/firstmilestone/blob/5408ae57aacf03294375f45db697bd23616ac659/img/image%20(1).jpg).
 
-   [img/image (2).jpg](https://github.com/Nikitaa13/firstmilestone/blob/f25eae0829b83cc97cc888d5aa5ab059b6a3c644/img/image%20(2).jpg).
-   [img/image (3).jpg](https://github.com/Nikitaa13/firstmilestone/blob/f25eae0829b83cc97cc888d5aa5ab059b6a3c644/img/image%20(3).jpg).
+   ![image](https://github.com/Nikitaa13/firstmilestone/blob/f25eae0829b83cc97cc888d5aa5ab059b6a3c644/img/image%20(2).jpg).
+   ![image](https://github.com/Nikitaa13/firstmilestone/blob/f25eae0829b83cc97cc888d5aa5ab059b6a3c644/img/image%20(3).jpg).
 
 
 

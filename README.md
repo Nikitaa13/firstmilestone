@@ -21,15 +21,19 @@ Welcome to **Krakow City Tour**, a responsive and visually engaging website desi
 
 ---
 ## Testing and Validation Tools Used
+
 To ensure the quality, performance, and accessibility of the website, we utilized a combination of industry-standard tools for testing and validation. Here is an overview of the tools used:
 
-W3C HTML Validator The W3C HTML Validator is a tool provided by the World Wide Web Consortium (W3C) that helps ensure web pages follow HTML standards. It checks for syntax errors, missing tags, incorrect nesting, and other common issues that may affect the page’s structure and functionality. This tool is crucial for ensuring that the HTML code is both valid and semantically correct.
+
+## W3C HTML Validator
+
+The W3C HTML Validator is a tool provided by the World Wide Web Consortium (W3C) that helps ensure web pages follow HTML standards. It checks for syntax errors, missing tags, incorrect nesting, and other common issues that may affect the page’s structure and functionality. This tool is crucial for ensuring that the HTML code is both valid and semantically correct.
+![Screenshot_2](https://github.com/Nikitaa13/firstmilestone/blob/152e5d4f140f168a10ce32e23b83c005b7aa9759/img/image%20(5).jpg)
+
 ---
 ## Jigsaw 
 Jigsaw is another tool provided by W3C, primarily used for testing the markup structure of web pages. It is similar to the W3C Validator but can offer more detailed insights into various markup and accessibility issues. The tool also highlights areas where the page structure deviates from established best practices.
-## Manual Testing: 
-
-Identify usability or functionality issues. Ensure all elements are responsive and accessible. Confirm the site meets user expectations. please see the test table below:
+![Screenshot_2](https://github.com/Nikitaa13/firstmilestone/blob/152e5d4f140f168a10ce32e23b83c005b7aa9759/img/image%20(4).jpg)
 
 ## How to Run
 1. Clone this repository to your local machine:
